@@ -1,0 +1,26 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ambientes e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python / Scripts de extração temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Arquivos temporários de build e dados brutos de extração
+*.tmp
+*.log
+manual_extracted_from_pdf.txt
+manual_extracted_structure.json
